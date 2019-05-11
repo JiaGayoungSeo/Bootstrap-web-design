@@ -1,0 +1,18 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+/* entire container stylesheet */
+*{
+    font: 'Nanum Gothic';
+}
+a {
+   color: #000000;
+   text-decoration: none; 
+}
+a:hover {
+    color: #bbbbbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+/* navigation */
+.navbar{
+    background-color: #000000;
+}
